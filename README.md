@@ -18,7 +18,8 @@ This project demonstrates a real-world, end-to-end Data Engineering solution on 
 
 ## 🏗️ Architecture
 
-<img width="501" height="243" alt="architecture" src="https://github.com/user-attachments/assets/599f5ff9-2b03-4e3e-8502-74c9124dd1e9" />
+<img width="1294" height="693" alt="image" src="https://github.com/user-attachments/assets/b3531533-c90f-40ac-97b6-e2fc7f64dff0" />
+
 
 ## 🛠️ Technologies Used
 
